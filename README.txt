@@ -1,0 +1,1 @@
+Perte de Charge est un logiciel permettant de calculer simplement les pertes de charge linéaire pour quelques type de tuyauterie
